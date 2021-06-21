@@ -1,0 +1,54 @@
+{
+    "team":
+    [
+        {
+            "image":"img/img81.jpg",
+            "name":"Faizan Ansari",
+            "designation":"IOS Developer(Senior)",
+            "description":"Busy schedule"
+        },
+        {
+            "image":"img/img7.jpg",
+            "name":"Nitin Chaudhary",
+            "designation":"IOS Developer",
+            "description":"i senior to sarfaraz"
+        },
+        
+        {
+            "image":"img/img1.jpg",
+            "name":"Sarfaraz Hussain",
+            "designation":"Back End Developer",
+            "description":"i like to code and cook on sundays"
+        },
+        {
+            "image":"img/img2.jpg",
+            "name":"Zeeshan Uddin ",
+            "designation":"Android Developer",
+            "description":"I develop component of android "
+        },
+        {
+            "image":"img/img3.jpg",
+            "name":"Zaid Hafeez",
+            "designation":"IOS Developer",
+            "description":"I have passion for developing app"
+        },
+        {
+            "image":"img/img4.jpg",
+            "name":"Shadan Anwar",
+            "designation":"IOT Engineer",
+            "description":"I like  to work with sensors "
+        },
+        {
+            "image":"img/img5.jpg",
+            "name":"Shaizan Siddiqui",
+            "designation":"IOT Engineer",
+            "description":"I like to travel .On sundays i travel in delhi NCR "
+        },
+        {
+            "image":"img/img6.jpg",
+            "name":"Zuber Ahmed",
+            "designation":"Android Developer",
+            "description":"like to build UIs for mobile application"
+        }
+    ]
+}
